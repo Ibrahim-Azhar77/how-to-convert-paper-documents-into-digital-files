@@ -49,7 +49,7 @@ Close the lid carefully before scanning.
 ### Step 6: Choose the File Format
 Select the format you want to save your document in.
 
-****Common formats include:**
+**Common formats include:**
 - PDF for official documents
 - JPG for images
 - PNG for high-quality graphics
@@ -104,16 +104,16 @@ Cloud storage allows you to access documents from anywhere using the internet.
 Cloud storage also helps protect files if your computer gets damaged.
 
 ## Common Problems While Scanning Documents
-**- Blurry or unclear scans –** Low resolution or dirty scanner glass can reduce scan quality.
-**- Large file sizes – ** High-quality scans often create files that take more storage space.
-**- Scanner not detecting the computer –** Loose connections or outdated drivers may prevent detection.
-**- Crooked or tilted pages –** Incorrect paper placement can make scanned pages look uneven.
-**- Dark shadows on scanned documents –** Dust, folds, or improper lid closing can create shadows.
-**- Slow scanning speed –** High DPI settings or old hardware can slow down the scanning process.
-**- Scanner paper jam issues –** Multiple pages or damaged paper may get stuck in the scanner.
-**- Missing text or cut-off edges –** Incorrect alignment can cause parts of the document to be missing.
-**- Poor color quality in scanned images –** Wrong color settings may affect image appearance.
-**- Scanned files not saving properly –** Software errors or low storage space can stop files from saving.
+- **Blurry or unclear scans** – Low resolution or dirty scanner glass can reduce scan quality.  
+- **Large file sizes** – High-quality scans often create files that take more storage space.  
+- **Scanner not detecting the computer** – Loose connections or outdated drivers may prevent detection.  
+- **Crooked or tilted pages** – Incorrect paper placement can make scanned pages look uneven.  
+- **Dark shadows on scanned documents** – Dust, folds, or improper lid closing can create shadows.  
+- **Slow scanning speed** – High DPI settings or old hardware can slow down the scanning process.  
+- **Scanner paper jam issues** – Multiple pages or damaged paper may get stuck in the scanner.  
+- **Missing text or cut-off edges** – Incorrect alignment can cause parts of the document to be missing.  
+- **Poor color quality in scanned images** – Wrong color settings may affect image appearance.  
+- **Scanned files not saving properly** – Software errors or low storage space can stop files from saving.  
 
 ## Benefits of Converting Paper Documents into Digital Files
 Converting paper documents into digital files offers many advantages:
